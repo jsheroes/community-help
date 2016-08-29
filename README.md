@@ -1,2 +1,8 @@
 # community-help
-Helping others is fun, ask away and the ClujJavaScripters community will help you!
+
+## Motivation
+We all once have been beginners. Often times we spent hours searching for solutions to our various technicall problems, bugs or architecture questions. The more one code and the more one understand such pains.
+
+Sharing knowledge is one of the core values of our community. We consider that providing help is an opportunity to share knowledge and to learn together. Therefore we decided to move help requests on github in order to track more easily their status.
+
+Helping others is fun, and challenging. Dare to ask, the ClujJavaScripters community will help you (and will enjoy doing it)!
