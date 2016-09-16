@@ -29,7 +29,7 @@ As much as we'd love to help you by jumping in a Skype/Hangouts/w/e call with yo
 is, we won't be able to. So try to focus on written communication (detail your problem, provide
 context, let us know how we can get back to you, etc.)
 
-__4 .If you solved it, let us know__
+__4. If you solved it, let us know__
 
 There's nothing better than you figuring out solutions on your own. If this happens, then congratulations!
 You've just increased your skills and became a better professional! In this situation, we kindly ask
