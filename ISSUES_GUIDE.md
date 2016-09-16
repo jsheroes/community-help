@@ -21,7 +21,7 @@ It's very important to to us to form a mental picture as soon as possible. So pl
 with some code examples, explaining what you are trying to do, how the codebase currently looks,
 what errors do you get, etc. For this you can use [jsbin](https://jsbin.com/?html,output) or [plunker](https://plnkr.co/)
 or whatever you want. We acknowledge this is an extra effort from your side, but it's well worth
-it if you want to maximize our changes of helping you.
+it if you want to maximize our chances of helping you.
 
 __3. Focus on written communication__
 
@@ -34,23 +34,23 @@ __4 .If you solved it, let us know__
 There's nothing better than you figuring out solutions on your own. If this happens, then congratulations!
 You've just increased your skills and became a better professional! In this situation, we kindly ask
 you to take some time and post your solution on the issue you opened and then close it, so that we can
-focus only on those that are still opened and haven't been solved yet. Remember that, by doing this,
-you will help us save time as well as the community (someone else may have similar problems and find your
+focus only on those that are still alive and haven't been solved yet. Remember that, by doing this,
+you will help us as well as the community (someone else may have similar problems and find your
 answer helpful).
 
 __5. We don't know everything__
 
 The JS landscape is incredibly vast. Although we try our best to keep up to date with everything, the
-truth is there are a lot of things we don't know either (from JS frameworks to plugins in the ecosystem). So sometime, we will not be able to help you right away.
+truth is there are a lot of things we don't know either (from JS frameworks to plugins in the ecosystem). So sometimes, we will not be able to help you right away.
 In those cases, we would appreciate that you understand this and try to make the process a collaborative one
-(we both learn together and dissect the problem). Focusing on a productive communication will be the
+(we learn together and dissect the problem). Focusing on a productive communication will be the
 key to getting to a solution as fast as possible.
 
 __6. We answer when we can__
 
 Our focus is on helping you. And we try our best at this. But we do have other responsibilities
 during the day (coding, meetings at work, long calls with clients, etc.). We always try to get back
-to you as soon as possible, but we ask that you understand there is no timeframe for this and that sometimes,
+to you as soon as possible, but we ask that you understand there is no timeframe for this and that, sometimes,
 other things will take priority. Please be patient, don't spam the issue thread, don't get
 angry/violent in communication and most importantly, don't give up on finding the answer on your own.
 There's nothing more valuable than you putting effort into undersanding and solving the problem by yourself.
