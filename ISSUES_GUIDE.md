@@ -1,6 +1,6 @@
 # Issues Guide
 
-We love helping others and we love a good challenge that will grow us as well.
+We love helping others and we love a good challenge that will help us grow as well.
 That's why we created this repo. To be the "go-to and ask for help" side of our community.
 
 However, it's important to you and us as well to try to minimize the time spent on analyzing issues.
